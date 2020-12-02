@@ -1643,6 +1643,12 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
+		image.featured-portrait {
+			display: block;
+			/*width: 100%;*/
+			margin: 0 0 2em 0;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
